@@ -1,0 +1,1 @@
+F:\Program Files\Julia-1.0.2\bin\julia -L ../genie.jl --color=yes --depwarn=no -q -- s %*
